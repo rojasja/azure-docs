@@ -11,7 +11,7 @@ ms.date: 07/27/2023
 ms.author: joflore
 author: MicrosoftGuyJFlo
 manager: amycolannino
-ms.reviewer: vmahtani
+ms.reviewer: joroja
 ms.custom: has-adal-ref
 ms.collection: M365-identity-device-management
 ---
